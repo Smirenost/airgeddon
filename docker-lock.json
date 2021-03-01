@@ -1,11 +1,11 @@
 {
-	"dockerfiles": {
-		"Dockerfile": [
-			{
-				"name": "archstrike/archstrike",
-				"tag": "latest",
-				"digest": "9404e09cb8924ed0a7c515f45857e7a8af50557e00f4a95c7a011a4a6cfda30f"
-			}
-		]
-	}
+  "dockerfiles": {
+    "Dockerfile": [
+      {
+        "name": "archstrike/archstrike",
+        "tag": "latest",
+        "digest": "9404e09cb8924ed0a7c515f45857e7a8af50557e00f4a95c7a011a4a6cfda30f"
+      }
+    ]
+  }
 }
